@@ -20,7 +20,6 @@ import (
 	"encoding/json"
 	"errors"
 	"reflect"
-	"sort"
 	"testing"
 	"time"
 
